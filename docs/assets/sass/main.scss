@@ -1,0 +1,40 @@
+@import "theme/variables";
+@import "theme/mixins";
+
+@import "theme/typography";
+
+// Core CSS
+@import "theme/misc";
+@import "theme/buttons";
+@import "theme/inputs";
+@import "theme/progress-bars";
+@import "theme/sliders";
+@import "theme/alerts";
+@import "theme/labels";
+@import "theme/tooltips-and-popovers";
+@import "theme/sections";
+@import "theme/checkbox-radio";
+@import "theme/navbars";
+@import "theme/images";
+@import "theme/cards";
+@import "theme/footers";
+
+
+// Bootstrap Switch
+@import "theme/bootstrap-switch";
+
+// Fancy Stuff
+@import "theme/dropdown";
+//
+// icons
+@import "theme/icons";
+//
+@import "theme/tabs-navs-pagination";
+@import "theme/collapse";
+@import "theme/carousel";
+@import "theme/modal";
+//
+@import "theme/responsive";
+@import "theme/plugins/datetimepicker";
+@import "theme/social-buttons";
+@import "theme/examples";
