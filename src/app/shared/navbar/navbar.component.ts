@@ -47,4 +47,8 @@ export class NavbarComponent implements OnInit {
             this.sidebarClose();
         }
     };
+
+    goToHome() {
+        this.location.back();
+    }
 }
